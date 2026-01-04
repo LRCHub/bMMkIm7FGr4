@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アクシデントコーディネイター feat. GUMI",
+  "base_artist": "MI8k",
+  "createdAt": "2026-01-04T12:58:50.721007Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アクシデントコーディネイター",
+      "artist": "MI8k",
+      "has_synced": false,
+      "path": "select/pl_01_アクシデントコーディネイター_MI8k.txt"
+    }
+  ]
+}
